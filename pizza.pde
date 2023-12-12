@@ -5,11 +5,9 @@ void setup(){
   sperm();
 }
 
-
 void draw(){
   
 }
-
 
 void dough(){
   fill(252,248,200);
