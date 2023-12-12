@@ -22,5 +22,6 @@ void sauce() {
 }
 
 void sperm() {
-  cum
+  println(cum on pizza bitch);
+  fill(pussy);
 }
