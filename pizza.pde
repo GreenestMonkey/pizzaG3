@@ -3,6 +3,7 @@ void setup(){
   dough();
   sauce();
   pepperoni();
+  ham();
 }
 
 void draw(){
@@ -26,4 +27,16 @@ void pepperoni() {
   ellipse(120,70,30,30);
   ellipse(100,150,30,30);
   ellipse(180,90,30,30);
+}
+
+void ham(){
+  fill(120,31,25);
+rect(60,60,17,23);
+rect(60,110,17,23);
+rect(60,150,17,23);
+rect(85,175,17,23);
+rect(100,200,17,23);
+rect(100,150,17,23);
+rect(100,150,17,23);
+rect(100,150,17,23);
 }
