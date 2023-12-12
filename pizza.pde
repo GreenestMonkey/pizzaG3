@@ -2,6 +2,7 @@ void setup(){
   size(256,256);  
   dough();
   sauce();
+  sperm();
 }
 
 
@@ -19,3 +20,5 @@ void sauce() {
    fill(#FF0000);
    ellipse(128,128,190,190); 
 }
+
+void sperm()
